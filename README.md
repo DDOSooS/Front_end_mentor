@@ -1,5 +1,4 @@
 # Frontend Mentor - QR code component
-#Live preview ![link](https://front-end-mentor-f8lccsp6v-ddosoos.vercel.app/)
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -46,7 +45,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
 
 - [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
+- [Vercel](https://front-end-mentor-f8lccsp6v-ddosoos.vercel.app/)
 - [Netlify](https://www.netlify.com/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
